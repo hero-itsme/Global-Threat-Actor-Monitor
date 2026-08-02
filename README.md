@@ -79,6 +79,9 @@ python main.py --once
 # View what's been detected so far, without Telegram
 python report.py --limit 30
 ```
+<img width="997" height="243" alt="Threat Monitor" src="https://github.com/user-attachments/assets/3a0fd669-050b-46fe-a99d-2a6f093c6b5d" />
+
+<img width="504" height="497" alt="Threat Alert" src="https://github.com/user-attachments/assets/1486fa40-40a9-4b5c-8f19-aeb6b6c1dd55" />
 
 ## Running as a background service (systemd)
 
