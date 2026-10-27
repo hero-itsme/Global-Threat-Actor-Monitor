@@ -32,7 +32,7 @@ from config.settings import (
     MIN_CONFIDENCE_TO_ALERT,
     ALERT_BATCH_MAX_PER_CYCLE,
 )
-from core.ossint_poller import poll_all_sources
+from core.osint_poller import poll_all_sources
 from core.killchain_mapper import analyze
 from core.storage import (
     init_db,
